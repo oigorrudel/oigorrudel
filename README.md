@@ -1,4 +1,5 @@
 ```java
+@Data
 public static class Person {
   private String firstName;
   private String lastName;
